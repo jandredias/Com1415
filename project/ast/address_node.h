@@ -2,6 +2,7 @@
 #define __PWN_AST_ADDRESS_NODE_H__
 
 #include <cdk/ast/unary_expression_node.h>
+#include "lvalue_node.h"
 namespace pwn {
 	
 	class address_node : public pwn::lvalue_node {
