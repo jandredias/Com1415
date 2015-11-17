@@ -5,7 +5,7 @@
 #=====================================================================
 
 # install in user's home directory
-ROOT = ${HOME}/compiladores/root
+ROOT = ${HOME}/comp1415/root
 
 # if installing in system dirs, use the following line instead
 #ROOT= 
